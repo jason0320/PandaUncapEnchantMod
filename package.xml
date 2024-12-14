@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Uncap Enchant Mod</title>
+  <id>Mod_PandaUncapEnchantMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>100</loadPriority>
+  <description>Allow Enhance Spell and Travel Speed to roll more than 25 Enchant Strengh</description>
+  <version>0.23.55</version>
+</Meta>
